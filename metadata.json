@@ -1,0 +1,6 @@
+{
+  "name": "Vishu Connect",
+  "description": "Educational platform for BCA, BTech, Computer Science, and Mathematics students featuring Notes, Code Notes, Classes, Batches, Calculators, Projects, Apps, and Jivan AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
